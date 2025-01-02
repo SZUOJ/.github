@@ -1,7 +1,7 @@
 ## 深圳大学在线判题平台 (SZUOJ)
 
-🙋‍♀️ SZUOJ
+🙋‍♀️ Online Judge System for Shenzhen University
 
 
-🧙 问题反馈 [feedback](https://support.qq.com/products/354109)
+🧙 Suggestions or bug feedbacks, please contact dongyunhao2019@email.szu.edu.cn
 
